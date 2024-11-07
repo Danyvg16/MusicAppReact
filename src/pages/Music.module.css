@@ -1,0 +1,13 @@
+.albumContainer{
+    display:grid;
+    gap: 2rem;
+    max-width: 1000px;
+    margin-inline: auto;
+    width: 18rem;
+}
+
+.card-body {
+    background-color: rgb(240, 187, 232);
+}
+
+
